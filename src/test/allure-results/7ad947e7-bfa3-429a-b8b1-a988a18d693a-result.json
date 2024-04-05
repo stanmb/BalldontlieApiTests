@@ -1,0 +1,85 @@
+{
+    "name": "Assert endpoint retrieves a specific team",
+    "start": 1712298453356,
+    "stop": 1712298453785,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Fetch the team with id 1 from v1/teams/{id}",
+            "start": 1712298453357,
+            "stop": 1712298453783,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert we got correct team",
+            "start": 1712298453784,
+            "stop": 1712298453784,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "7ad947e7-bfa3-429a-b8b1-a988a18d693a",
+    "historyId": "6f153463305ec81335622ebf70789828",
+    "fullName": "teams.BalldontlieApiTest.testGetConcreteTeam",
+    "labels": [
+        {
+            "name": "package",
+            "value": "teams"
+        },
+        {
+            "name": "testClass",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConcreteTeam"
+        },
+        {
+            "name": "suite",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

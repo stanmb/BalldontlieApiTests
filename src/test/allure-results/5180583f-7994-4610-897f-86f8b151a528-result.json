@@ -1,0 +1,181 @@
+{
+    "name": "Assert all fields of team object are filled",
+    "start": 1712298453792,
+    "stop": 1712298454175,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Fetch teams from v1/teams",
+            "start": 1712298453793,
+            "stop": 1712298454172,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has name",
+            "start": 1712298454173,
+            "stop": 1712298454173,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has id",
+            "start": 1712298454173,
+            "stop": 1712298454173,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has fullName",
+            "start": 1712298454174,
+            "stop": 1712298454174,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has city",
+            "start": 1712298454174,
+            "stop": 1712298454174,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has city",
+            "start": 1712298454174,
+            "stop": 1712298454174,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has abbreviation",
+            "start": 1712298454174,
+            "stop": 1712298454174,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert that team object has conference",
+            "start": 1712298454175,
+            "stop": 1712298454175,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5180583f-7994-4610-897f-86f8b151a528",
+    "historyId": "d061bce3e28b075f17177a499847fdb",
+    "fullName": "teams.BalldontlieApiTest.test fields of team object",
+    "labels": [
+        {
+            "name": "package",
+            "value": "teams"
+        },
+        {
+            "name": "testClass",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "test fields of team object"
+        },
+        {
+            "name": "suite",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

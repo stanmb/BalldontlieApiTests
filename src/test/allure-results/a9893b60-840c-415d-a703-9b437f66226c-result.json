@@ -1,0 +1,89 @@
+{
+    "name": "Fetch all teams from v1/teams",
+    "start": 1712298452923,
+    "stop": 1712298453351,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Fetch teams from v1/teams",
+            "start": 1712298452923,
+            "stop": 1712298453350,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert team size equals 45",
+            "start": 1712298453351,
+            "stop": 1712298453351,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a9893b60-840c-415d-a703-9b437f66226c",
+    "historyId": "76f8da45dd2b2155739e0a58fcb59864",
+    "fullName": "teams.BalldontlieApiTest.test teams API returns 45 teams",
+    "labels": [
+        {
+            "name": "package",
+            "value": "teams"
+        },
+        {
+            "name": "testClass",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "test teams API returns 45 teams"
+        },
+        {
+            "name": "suite",
+            "value": "teams.BalldontlieApiTest"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "feature",
+            "value": "Teams"
+        }
+    ]
+}
