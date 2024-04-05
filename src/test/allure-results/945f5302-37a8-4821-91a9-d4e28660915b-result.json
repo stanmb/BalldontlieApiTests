@@ -1,0 +1,85 @@
+{
+    "name": "get1PlayerOnPage",
+    "start": 1712298451615,
+    "stop": 1712298452026,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Get 1 player",
+            "start": 1712298451616,
+            "stop": 1712298452025,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert the number of players is 1",
+            "start": 1712298452026,
+            "stop": 1712298452026,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "945f5302-37a8-4821-91a9-d4e28660915b",
+    "historyId": "2a460500f6347eb72590589359e741d",
+    "fullName": "players.PlayersTests.get1PlayerOnPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "players"
+        },
+        {
+            "name": "testClass",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "get1PlayerOnPage"
+        },
+        {
+            "name": "suite",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "getAllPlayersWithDefaultNumber",
+    "start": 1712298449665,
+    "stop": 1712298450239,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Get all players",
+            "start": 1712298449665,
+            "stop": 1712298450238,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert the number of players is 25",
+            "start": 1712298450239,
+            "stop": 1712298450239,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9014307a-ebdb-4095-a279-8d27f748f885",
+    "historyId": "fbfd2003d3ac1cad2fd5c4c3822f700b",
+    "fullName": "players.PlayersTests.getAllPlayersWithDefaultNumber",
+    "labels": [
+        {
+            "name": "package",
+            "value": "players"
+        },
+        {
+            "name": "testClass",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "getAllPlayersWithDefaultNumber"
+        },
+        {
+            "name": "suite",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

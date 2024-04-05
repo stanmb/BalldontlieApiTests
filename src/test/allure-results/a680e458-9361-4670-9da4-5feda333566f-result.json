@@ -1,0 +1,85 @@
+{
+    "name": "searchPlayersByFirstName",
+    "start": 1712298448733,
+    "stop": 1712298449647,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Search players with name Stephen",
+            "start": 1712298448734,
+            "stop": 1712298449639,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert all players have name Stephen",
+            "start": 1712298449640,
+            "stop": 1712298449645,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a680e458-9361-4670-9da4-5feda333566f",
+    "historyId": "96d8c8775b2f910279f3b6f31f855739",
+    "fullName": "players.PlayersTests.searchPlayersByFirstName",
+    "labels": [
+        {
+            "name": "package",
+            "value": "players"
+        },
+        {
+            "name": "testClass",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "searchPlayersByFirstName"
+        },
+        {
+            "name": "suite",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

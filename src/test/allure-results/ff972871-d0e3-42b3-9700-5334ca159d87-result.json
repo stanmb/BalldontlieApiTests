@@ -1,0 +1,85 @@
+{
+    "name": "getDefaultNumberIfParamLessThanZero",
+    "start": 1712298450809,
+    "stop": 1712298451611,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Get page with 0 players",
+            "start": 1712298450809,
+            "stop": 1712298451610,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Assert the number of players is 25",
+            "start": 1712298451611,
+            "stop": 1712298451611,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ff972871-d0e3-42b3-9700-5334ca159d87",
+    "historyId": "aa50dc8661aba834bc08f35e6a06c01c",
+    "fullName": "players.PlayersTests.getDefaultNumberIfParamLessThanZero",
+    "labels": [
+        {
+            "name": "package",
+            "value": "players"
+        },
+        {
+            "name": "testClass",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "getDefaultNumberIfParamLessThanZero"
+        },
+        {
+            "name": "suite",
+            "value": "players.PlayersTests"
+        },
+        {
+            "name": "host",
+            "value": "mbp-ayankov-OZON-FVFFK3MYQ05N"
+        },
+        {
+            "name": "thread",
+            "value": "96453@mbp-ayankov-OZON-FVFFK3MYQ05N.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
